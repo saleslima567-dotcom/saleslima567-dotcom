@@ -80,8 +80,16 @@ Site estático desenvolvido para apresentar minha trajetória, tecnologias e pro
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saleslima567-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Paulo Kauã" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleslima567-dotcom&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios de Paulo Kauã" />
+  <a href="https://github.com/saleslima567-dotcom" target="_blank">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=saleslima567-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Paulo Kauã — clique para abrir o perfil" />
+  </a>
+  <a href="https://github.com/saleslima567-dotcom?tab=repositories" target="_blank">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saleslima567-dotcom&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios de Paulo Kauã — clique para ver os repositórios" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Clique no primeiro cartão para abrir meu perfil ou no segundo para explorar meus repositórios.</sub>
 </p>
 
 ---
