@@ -52,11 +52,12 @@ Aplicação web para cadastrar e acompanhar softwares, versões, licenças e dat
 
 ### Portfólio pessoal
 
-Site estático desenvolvido para apresentar minha trajetória, tecnologias e projetos, com navegação responsiva e seções de apresentação e contato.
+Site desenvolvido para apresentar minha trajetória, tecnologias e projetos, com navegação responsiva e seções de apresentação e contato.
 
 **Tecnologias:** HTML5, CSS3 e JavaScript.
 
-- [Ver repositório](https://github.com/saleslima567-dotcom/portfolio-paulo-kaua)
+- [Ver portfólio online](https://portfolio-paulo-kaua.lokokaua567.workers.dev/#projetos)
+- [Ver repositório e arquivos-fonte](https://github.com/saleslima567-dotcom/portfolio-paulo-kaua)
 
 ## Tecnologias e ferramentas
 
