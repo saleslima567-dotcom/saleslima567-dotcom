@@ -1,4 +1,4 @@
-# Paulo Kauã Sales
+# Paulo Kauã Sales Lima
 
 <p align="center">
   <strong>Desenvolvedor Web | Estudante de Análise e Desenvolvimento de Sistemas</strong>
