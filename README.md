@@ -1,4 +1,4 @@
-# Paulo Kauã Sales Lima
+# Paulo Kauã Sales
 
 <p align="center">
   <strong>Desenvolvedor Web | Estudante de Análise e Desenvolvimento de Sistemas</strong>
@@ -45,8 +45,8 @@ Aplicação web para cadastrar e acompanhar softwares, versões, licenças e dat
 
 **Tecnologias:** HTML5, CSS3, JavaScript e Web Storage API (localStorage).
 
-- [Ver repositório](https://github.com/saleslima567-dotcom/Cadastro-de-Inventario-de-Softwares-de-TI.)
-- [Acessar aplicação](https://cadastro-de-inventario-de-softwares-de-ti.paulokauan.workers.dev/)
+- [Acessar aplicação online](https://cadastro-de-inventario-de-softwares-de-ti.lokokaua567.workers.dev/)
+- [Ver repositório e arquivos-fonte](https://github.com/saleslima567-dotcom/Cadastro-de-Inventario-de-Softwares-de-TI.)
 
 *Observação: os registros ficam no armazenamento local do navegador. O projeto não utiliza backend nem autenticação.*
 
