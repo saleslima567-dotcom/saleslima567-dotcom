@@ -41,14 +41,16 @@ Plataforma demonstrativa de cursos online com catálogo, busca, autenticação, 
 
 ### Inventário de Softwares de TI
 
-Aplicação web para cadastrar e acompanhar softwares, versões, licenças e datas de renovação. A aplicação valida os dados, evita cadastros duplicados e classifica as licenças como ativas, próximas do vencimento ou vencidas.
+Sistema web de gerenciamento de softwares e licenças, com **cadastro de usuários, autenticação por sessão e inventário separado por conta**. Oferece CRUD completo, dashboard com indicadores de vencimento, pesquisa, filtros, ordenação, exportação CSV e backup JSON.
 
-**Tecnologias:** HTML5, CSS3, JavaScript e Web Storage API (localStorage).
+A interface utiliza **HTML, CSS e JavaScript puro**; a API REST roda no **Cloudflare Workers** e armazena os dados no **Cloudflare D1 (SQLite)**. O projeto possui testes automatizados, validações de segurança e integração de deploy pelo GitHub.
 
-- [Acessar aplicação online](https://cadastro-de-inventario-de-softwares-de-ti.lokokaua567.workers.dev/)
-- [Ver repositório e arquivos-fonte](https://github.com/saleslima567-dotcom/Cadastro-de-Inventario-de-Softwares-de-TI.)
+**Tecnologias:** HTML5, CSS3, JavaScript, Cloudflare Workers, D1 (SQLite), SQL, Wrangler e GitHub Actions.
 
-*Observação: os registros ficam no armazenamento local do navegador. O projeto não utiliza backend nem autenticação.*
+- [Acessar sistema online](https://cadastro-de-inventario-de-softwares-de-ti.lokokaua567.workers.dev/)
+- [Ver repositório e documentação](https://github.com/saleslima567-dotcom/Cadastro-de-Inventario-de-Softwares-de-TI.)
+
+*Observação: projeto demonstrativo. Acompanhamento de vencimentos disponível no dashboard; notificações por e-mail e recuperação de senha ainda não foram implementadas.*
 
 ### Portfólio pessoal
 
@@ -72,6 +74,7 @@ Site desenvolvido para apresentar minha trajetória, tecnologias e projetos, com
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers e D1" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
