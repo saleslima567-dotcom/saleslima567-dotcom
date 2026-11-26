@@ -30,9 +30,9 @@ Venho desenvolvendo projetos que envolvem interfaces web, regras de negócio, in
 
 ### Learn-Play — Plataforma de cursos online
 
-Plataforma demonstrativa de cursos online com catálogo, busca, autenticação, perfis de aluno, professor e administrador, matrículas, aulas, acompanhamento de progresso e avaliações. O projeto também inclui painel administrativo e ambiente com Docker.
+Plataforma demonstrativa de cursos online com catálogo, busca, autenticação, perfis de aluno, professor e administrador, matrículas, aulas, acompanhamento de progresso e avaliações. O projeto também inclui painel administrativo, ambiente com Docker e uma camada de segurança com proteção CSRF, controle de acesso por perfil, limitação de requisições de autenticação, validação da API, cabeçalhos HTTP de segurança e auditorias automatizadas de dependências no GitHub Actions.
 
-**Tecnologias:** React, TypeScript, Python, Flask, SQLAlchemy, PostgreSQL e Docker.
+**Tecnologias:** React, TypeScript, Python, Flask, SQLAlchemy, PostgreSQL, Docker e GitHub Actions.
 
 - [Ver repositório](https://github.com/saleslima567-dotcom/Learn-Play)
 - [Acessar demonstração](https://learnplay-lzk9.onrender.com)
